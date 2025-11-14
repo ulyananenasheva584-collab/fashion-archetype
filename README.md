@@ -65,5 +65,5 @@ fashion-archetype/
 # 7. Автор
 Ненашева Ульяна ИСП9-kh35
 
-#8. Контактная информация
+# 8. Контактная информация
 Email: ulyana.nenasheva7@yandex.ru
